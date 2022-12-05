@@ -1,0 +1,11 @@
+[package]
+name = "ip-hex"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["havfo <havar@fosstveit.net>"]
+
+[dependencies]
+
+[[bin]]
+name = "ip-hex"
